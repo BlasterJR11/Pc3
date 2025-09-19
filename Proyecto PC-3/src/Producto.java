@@ -1,4 +1,6 @@
 
+//Prueba 1
+
 //Importaciones de clases
 import java.util.ArrayList; //Uso de listas dinamicas
 import java.util.Scanner; //Uso de lectura de datos mediante teclado
@@ -211,3 +213,4 @@ public class Producto {
         }
     }
 }
+
